@@ -1,0 +1,8 @@
+Ingredients:
+    - Peanut Butter
+    - Grape Jelly
+    - Bread Slices
+Directions:
+    1. Apply Peanut butter to one slice of bread.
+    2. Apply Jelly to another slice of bread.
+    3. Press to bread slices together.
